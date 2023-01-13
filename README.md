@@ -1,3 +1,5 @@
+<h1><a href="https://sprightly-faloodeh-ed69b1.netlify.app">Open in Browser</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
